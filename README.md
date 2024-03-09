@@ -1,4 +1,6 @@
 <div align="Center">
+  
+<img src="LOGO.png"/>
 
 # 广州市新侨学校计算机社团
 ### SCA Computer Club
