@@ -1,6 +1,6 @@
 <div align="Center">
   
-<img src="LOGO.png"/>
+![image](https://github.com/SCA-Computer-Club/.github/blob/main/LOGO.png)
 
 # 广州市新侨学校计算机社团
 ### SCA Computer Club
@@ -9,11 +9,12 @@
 
 # 了解与介绍
 
+来自广州市新侨学校的计算机社团 我们崇尚软件开发 励志开发出可以改善生活的软件
 
 # 关于我们
 <div align="Left">
 
-
+-
 
 </div>
 
